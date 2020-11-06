@@ -1,0 +1,1 @@
+#define LITTLEENDIAN 1
